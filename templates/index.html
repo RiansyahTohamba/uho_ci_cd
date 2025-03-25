@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penghitung Nilai Akhir</title>
+</head>
+<body>
+    <h2>Form Penghitung Nilai Akhir</h2>
+    <form method="post">
+        <label for="tugas">Nilai Tugas:</label>
+        <input type="number" name="tugas" required><br>
+        
+        <label for="uts">Nilai UTS:</label>
+        <input type="number" name="uts" required><br>
+        
+        <label for="uas">Nilai UAS:</label>
+        <input type="number" name="uas" required><br>
+        
+        <label for="proyek">Nilai Proyek:</label>
+        <input type="number" name="proyek" required><br>
+        
+        <button type="submit">Hitung</button>
+    </form>
+    
+    {% if hasil is not none %}
+    <h3>Nilai Akhir: {{ hasil }}</h3>
+    {% endif %}
+</body>
+</html>
