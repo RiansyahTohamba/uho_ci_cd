@@ -17,7 +17,6 @@ Pengujian Automation Regression Testing.
 # Minggu 6 (25 maret 2025): 
 Automation corrective testing.
 
-
 # 8 april 2024
 demo 1
 
@@ -28,14 +27,14 @@ demo 2
 praktik automation testing
 
 # 29 april 2024 (minggu ke-9)
-sebelum pertemuan coba create instances di idcloudhost
-teori migrasi ke cloud
+IaaS untuk penyewaan CPU, RAM, minimum Storage
+IaaS untuk penyewaan Storage elastis.
 
 # 6 mei '25 - Minggu 10 
-teori migrasi ke instances.
+IaaS: Praktik pembuatan instances CPU, RAM di IdCloudHost
 
 # 20 mei '25 - Minggu 11 (13 mei = cuti waisak)
-Pengantar fitur Storage di Cloud. teori dan Praktik cloud storage.
+IaaS: untuk penyewaan RDBMS.
 
 # 27 mei '25 - Minggu 12
 Virtual Private Cloud.
