@@ -17,11 +17,10 @@ Pengujian Automation Regression Testing.
 # Minggu 6 (25 maret 2025): 
 Automation corrective testing.
 
-# 8 april 2024
-demo 1
-
-# 15 april 2024
-demo 2 
+# 8 april 2024 (minggu ke-7)
+Presentasi awal batch 1. Penilaian aspek pertama. (6, 5, 3, 2)
+# 15 april 2024 (minggu ke-8)
+Presentasi awal batch 2. Penilaian aspek pertama. (7arya, 7april, 10, 4)
 
 # 22 april 2024 (minggu ke-8 karena ketunda)
 praktik automation testing
