@@ -28,24 +28,25 @@ praktik automation testing
 # 29 april 2024 (minggu ke-9)
 IaaS untuk penyewaan CPU, RAM, minimum Storage
 IaaS untuk penyewaan Storage elastis.
+IaaS: untuk penyewaan RDBMS.
 
 # 6 mei '25 - Minggu 10 
 IaaS: Praktik pembuatan instances CPU, RAM di IdCloudHost
 
 # 20 mei '25 - Minggu 11 (13 mei = cuti waisak)
-IaaS: untuk penyewaan RDBMS.
+IaaS: Praktik pembuatan instances CPU, RAM di IdCloudHost
 
 # 27 mei '25 - Minggu 12
-Virtual Private Cloud.
+Presentasi IaaS
 
 # 3 june '25 - Minggu 13: 
-Virtual Private Cloud(2)
+Virtual Private Cloud.
 
 # 10 june '25 - Minggu 14: 
-Presentasi akhir batch 1. Penilaian aspek akhir.
+Presentasi tugas kelompok: Virtual Private Cloud(2)
 
 # 17 june '25 - Minggu 15: 
-Presentasi akhir batch 2. Penilaian aspek akhir.
+Presentasi akhir batch 1. Penilaian aspek akhir.
 
 # 24 june '25 - Minggu 16: 
-UAS
+Presentasi akhir batch 2. Penilaian aspek akhir.
