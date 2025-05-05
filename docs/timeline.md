@@ -11,9 +11,6 @@ Penggunaan Rest API As a Services berbasis AI. (Studi kasus: API LLM dengan Gemi
 # Minggu 4 (11 maret 2025): 
 Pengantar CI/CD
 
-# Minggu 5 (18 maret 2025): 
-Pengujian Automation Regression Testing.
-
 # Minggu 6 (25 maret 2025): 
 Automation corrective testing.
 
@@ -22,31 +19,31 @@ Presentasi awal batch 1. Penilaian aspek pertama. (6, 5, 3, 2)
 # 15 april 2024 (minggu ke-8)
 Presentasi awal batch 2. Penilaian aspek pertama. (7arya, 7april, 10, 4)
 
-# 22 april 2024 (minggu ke-8 karena ketunda)
+# minggu ke-5 (22 april 2024)  
 praktik automation testing
 
-# 29 april 2024 (minggu ke-9)
+# minggu ke 9 - 29 april 2024 
 IaaS untuk penyewaan CPU, RAM, minimum Storage
 IaaS untuk penyewaan Storage elastis.
 IaaS: untuk penyewaan RDBMS.
 
-# 6 mei '25 - Minggu 10 
+# Minggu 10 - 6 mei '25 
 IaaS: Praktik pembuatan instances CPU, RAM di IdCloudHost
 
-# 20 mei '25 - Minggu 11 (13 mei = cuti waisak)
+# Minggu 11 - 20 mei '25 (13 mei = cuti waisak)
 IaaS: Praktik pembuatan instances CPU, RAM di IdCloudHost
 
-# 27 mei '25 - Minggu 12
+# Minggu 12 - 27 mei '25 
 Presentasi IaaS
 
-# 3 june '25 - Minggu 13: 
+# Minggu 13:  3 june '25 - 
 Virtual Private Cloud.
 
-# 10 june '25 - Minggu 14: 
+# Minggu 14:  10 june '25 - 
 Presentasi tugas kelompok: Virtual Private Cloud(2)
 
-# 17 june '25 - Minggu 15: 
+# Minggu 15: 17 june '25 
 Presentasi akhir batch 1. Penilaian aspek akhir.
 
-# 24 june '25 - Minggu 16: 
+# Minggu 16: 24 june '25 - 
 Presentasi akhir batch 2. Penilaian aspek akhir.
